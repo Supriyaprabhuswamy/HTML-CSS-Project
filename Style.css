@@ -1,0 +1,68 @@
+body{
+	background: rgb(217, 230, 250);
+	text-transform: capitalize;
+	text-align: justify;
+	font-family: lato;
+}
+#title{
+	font-weight: 800;
+	font-family: sans-serif;
+	color: rgb(186,133,9);
+}
+.subtitle{
+	font-family: sarabun;
+}
+h2:hover{
+	color: red;
+}
+#google-link:hover{
+	color: blue;
+	text-decoration: underline;
+	/*float: right;*/
+}
+button{
+	color: purple;
+}
+/*img[src*="../Images/image-1"]{
+	border: 7px solid black;
+}
+img[src^="../Images/image-2"]{
+	border: 5px solid black;
+}*/
+h2{
+	background: rgb(200, 180, 180);
+}
+#sports-image{
+	height: 300px;
+	width: 50vw;
+	background-repeat: no-repeat;
+	background-color: steelblue;
+	background-size: cover;
+	/*background:url("../Images/Ubcity2.jpg") ;
+	background: linear-gradient(to right,red,green,steelblue,blue);
+	background: linear-gradient(to right,rgb(94,255,126),rgba(94,255,126,0));
+	background: linear-gradient(-90deg,rgb(94,255,126),rgba(94,255,126,0));
+	background: radial-gradient(red,blue,green);*/
+	background: radial-gradient(circle,red 20%,blue 40%,green 55%);
+	border: 10px solid rgb(204, 229, 255);
+	/*float: right;*/
+}
+#about-bnglr-img{
+	height: 300px;
+	width: 60%;
+	border: 7px solid black;
+	/*margin: 40px;
+	padding: :20px;
+	margin: 80px 40px;*/
+
+}
+#sports-img{
+	height: :500px;
+	width: 90%;
+	border: :7px solid black;
+}
+
+.submit-button: hover{
+	background: rgb(147, 187, 255);
+	padding: 20px 30px;
+}
